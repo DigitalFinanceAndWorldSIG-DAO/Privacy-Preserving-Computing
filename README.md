@@ -8,4 +8,8 @@
 
 ## Claim bounty
 
-Contact us. We will confirm the allocating of bounty to you after communication. You will be invited into the sharing group for further researches and progress updates.
+Contact us on Wechat (ID: wxid_hmb9bh2xph7s22). We will confirm the allocating of bounty to you after communication. You will be invited into the sharing group for further researches and progress updates.
+
+## Join ResearchDAO
+
+Everyone in any background and experience is welcomed to join our ResearchDAO. Contact us on Wechat (ID: wxid_hmb9bh2xph7s22)! 
