@@ -2,9 +2,9 @@
 
 > [English Doc](./README.md)
 
-[知识库](https://github.com/DigitalFinanceAndWorldSIG/ResearchDAO/tree/main/Privacy-Preserving-Computing)
+[知识库](https://github.com/DigitalFinanceAndWorldSIG-DAO/Blockchain-x-Finance-SIG-DAO/tree/main/Privacy-Preserving-Computing)
 
-[研究赏金任务](https://github.com/DigitalFinanceAndWorldSIG/Privacy-Preserving-Computing/issues)
+[研究赏金任务](https://github.com/DigitalFinanceAndWorldSIG-DAO/Privacy-Preserving-Computing/issues)
 
 ## 领取赏金任务
 
