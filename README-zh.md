@@ -8,8 +8,8 @@
 
 ## 领取赏金任务
 
-通过微信联系 (ID: wxid_hmb9bh2xph7s22), 进行简短的交流后进行任务的确认分配. 分配后可以加入论文协作组, 进行研究和记录.
+通过以下方式联系我们, 进行简短的交流后进行任务的确认分配. 分配后可以加入论文协作组, 进行研究和记录.
 
-## 加入 区块链 x 金融 SIG
+## 联系我们
 
-区块链 x 金融 SIG 一直在火热招募新成员中! 欢迎不同背景不同经验的朋友加入 ResearchDAO! 微信联系: wxid_hmb9bh2xph7s22. 
+区块链x金融Research SIG(DAO)期待你的加入! 欢迎随时联系丁晓蔚教授: dingxiaowei@nju.edu.cn. 微信是: 15800717594. 我们的网页是 https://cms.nju.edu.cn/xxglxy/yjtd/yjtd/20210825/i205230.html. 研究中心官网: https://cms.nju.edu.cn/xxglxy/.
