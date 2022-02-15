@@ -12,4 +12,4 @@ Contact us and we will confirm the allocating of bounty to you after communicati
 
 ## Contact Us
 
-The Blockchain x Finance Research SIG (DAO) is looking forward to hearing from you! Please feel free to contact Prof. Ding Xiaowei at dingxiaowei@nju.edu.cn. We can be reached at Wechat at 15800717594. Our website is https://cms.nju.edu.cn/xxglxy/.
+The Blockchain x Finance Research SIG (DAO) is looking forward to hearing from you! Please feel free to contact Prof. Ding Xiaowei at dingxiaowei@nju.edu.cn. We can be reached at Wechat at 15800717594 or ysnysn1. Our website is https://cms.nju.edu.cn/xxglxy/.
