@@ -8,8 +8,8 @@
 
 ## Claim bounty
 
-Contact us on Wechat (ID: wxid_hmb9bh2xph7s22). We will confirm the allocating of bounty to you after communication. You will be invited into the sharing group for further researches and progress updates.
+Contact us and we will confirm the allocating of bounty to you after communication. You will be invited into the sharing group for further researches and progress updates.
 
-## Join Blockchain x Finance SIG
+## Contact Us
 
-Everyone in any background and experience is welcomed to join our Blockchain x Finance SIG. Contact us on Wechat (ID: wxid_hmb9bh2xph7s22)! 
+The Blockchain x Finance Research SIG (DAO) is looking forward to hearing from you! Please feel free to contact Prof. Ding Xiaowei at dingxiaowei@nju.edu.cn. We can be reached at Wechat at 15800717594. Our website is https://cms.nju.edu.cn/xxglxy/.
