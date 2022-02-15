@@ -2,9 +2,9 @@
 
 > [中文版文档](./README-zh.md)
 
-[Resource](https://github.com/DigitalFinanceAndWorldSIG/ResearchDAO/tree/main/Privacy-Preserving-Computing)
+[Resource](https://github.com/DigitalFinanceAndWorldSIG-DAO/Blockchain-x-Finance-SIG-DAO/tree/main/Privacy-Preserving-Computing)
 
-[Active Bounty](https://github.com/DigitalFinanceAndWorldSIG/Privacy-Preserving-Computing/issues)
+[Active Bounty](https://github.com/DigitalFinanceAndWorldSIG-DAO/Privacy-Preserving-Computing/issues)
 
 ## Claim bounty
 
